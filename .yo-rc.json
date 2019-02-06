@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Git Basics",
+    "packageVersion": "1.0.0-alpha-1",
+    "revealTheme": "sky",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
